@@ -11,6 +11,7 @@ sudo dfu-util -a 0 -D fw_pybstick26std_20200506.dfu
 
 * [fw_pybstick26std_20200509-0.dfu](fw_pybstick26std_20200509-0.dfu) - 09 mai 2020 - MicroPython 1.12!
 * [fw_pybstick26std_20200513-0.dfu](fw_pybstick26std_20200513-0.dfu) - 13 mai 2020 - MicroPython 1.12!
+* [fw_pybstick26std_wiznet_20200918-0.dfu](fw_pybstick26std_wiznet_20200918-0.dfu) - 18 septembre 2020 - MicroPython 1.12 avec support Wiznet5k
  * Régression servo (0 à -90)
 
 # PYBStick Standard 26 NUSB (no usb)
